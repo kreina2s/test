@@ -17,6 +17,10 @@ for testing purposes
 
 ```git add file.txt```
 
+## Commits in Remote Repo pushen
+
+```git push origin fix/geld-reservierung```
+
 ## Datei aus commit entfernen
 
 ```git ls-files -s```
@@ -24,3 +28,9 @@ for testing purposes
 ## Branch aktualisieren
 
 ```git pull```
+
+## Branches mergen
+
+In den Branch wechseln mit "git checkout BranchName" in den ein andere Branch hinein gemerged werden soll
+
+```git merge```
