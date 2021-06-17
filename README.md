@@ -13,6 +13,10 @@ for testing purposes
 
 ```git checkout -b BranchName```
 
-## Dateien die mit add dem index hinzugefügt wurden
+## Datei stagen (einem commit hinzufügen)
+
+```git add file.txt```
+
+## Datei aus commit entfernen
 
 ```git ls-files -s```
