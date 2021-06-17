@@ -20,3 +20,7 @@ for testing purposes
 ## Datei aus commit entfernen
 
 ```git ls-files -s```
+
+## Branch aktualisieren
+
+```git pull```
